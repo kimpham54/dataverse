@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^dvn_rss_released.xml dvnRSS-released.php [L]
+
+RewriteEngine on
+RewriteRule ^dvn_rss_downloads.xml dvnRSS-downloads.php [L]
